@@ -1,0 +1,16 @@
+{
+  "name": "shopproj",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server/server.js",
+    "server": "nodemon server/server.js"
+  },
+  "author": "rohit wabale",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
